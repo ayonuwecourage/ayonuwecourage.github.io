@@ -1,9 +1,8 @@
-# Muse - Bootstrap 5 HTML Responsive One-Page Creative Portfolio Template
+# Welcome to my portfolio where I display case studies I have developed
 
 ## Overview
-Muse is a one-page responsive HTML Bootstrap 5 template for graphic designers and illustrators to showcase their work.
-The template comes with a custom modal that pulls in the correct image and project description, a custom animated slide-out menu, client testimonials widget, skills widget and experience widget.
-
+This page houses the projects I have done.
+The first is how a wellness company can play it smart
 <strong><a href="https://muse-html-bootstrap.vercel.app/">View Demo</a> | <a href="https://github.com/PixelRocket-Shop/muse-html-bootstrap/archive/main.zip">Download ZIP</a></strong>
 
 ![Bootstrap 5 Responsive HTML One-Page Portfolio Template](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/muse-html/home.jpg "Muse | Responsive Bootstrap 5 One-Page Portfolio Template")
