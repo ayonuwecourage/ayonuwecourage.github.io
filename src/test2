@@ -1,0 +1,35 @@
+<div class="bg-white p-8 rounded-lg shadow-xl max-w-sm w-full text-center">
+        <h1 class="text-2xl font-bold text-gray-800 mb-6">Click the Project Title to View PDF</h1>
+
+        <div
+            class="portfolio-item p-4 border border-gray-200 rounded-lg mb-4"
+            data-portfolio-img="./assets/images/portfolio-1.jpg"
+            data-portfolio-title="Night Party"
+            data-portfolio-description="Poster illustration created for a club&#x27;s annual summer party. Also created stickers, logos and various website elements."
+            data-portfolio-client="ACME Design Limited"
+            data-portfolio-date=""
+            data-portfolio-category="Illustration"
+        >
+            <!-- The image is still here, but no longer directly clickable for the PDF -->
+            <picture class="d-block mb-4">
+                <img class="img-fluid rounded-lg shadow-sm" src="./assets/images/portfolio-small-1.jpg" alt="Night Party Illustration">
+            </picture>
+
+            <!-- The new text link to open the PDF -->
+            <h3 class="text-xl font-semibold text-gray-700 mb-2">
+                <!-- Replace "project1.pdf" with the actual path to your PDF -->
+                <a href="project1.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 hover:underline transition-colors duration-200">
+                    Night Party Project Details
+                </a>
+            </h3>
+
+            <p class="text-gray-600 text-sm">
+                Poster illustration created for a club's annual summer party.
+            </p>
+        </div>
+
+        <p class="text-gray-600 mt-4 text-sm">
+            Ensure 'project1.pdf' is in the same directory as this HTML file,
+            or provide the correct relative/absolute path.
+        </p>
+    </div>
